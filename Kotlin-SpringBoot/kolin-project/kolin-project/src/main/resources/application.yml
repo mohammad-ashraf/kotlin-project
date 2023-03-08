@@ -1,0 +1,14 @@
+#spring:
+#   data:
+#    mongodb:
+#      host: localhost
+#      port: 27017
+#      database: springtest
+#      repositories:
+#        type: auto
+
+
+
+#     uri=mongodb://localhost:27017/springtest
+#spring.data.mongodb.username=mihai
+#spring.data.mongodb.password=mihai
